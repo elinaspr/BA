@@ -14,4 +14,4 @@ The code thus attempts to not include ngrams with 'gibt' or Named person/locatio
 Thus, the final list of top ngrams is often shorter than <i>n</i>.
 The model used for Named Entity Recognition is the spacy model <i>de_core_news_sm</i>. 
 The identification of Named Entities and 'gibt' does not work in all cases, but in some. Therefore, it still successfully shortens the output - which was the goal of the filtering process. </p>
-</p> <i>Report of Limitations:</i> Making sure that the output list is exactly <i>n</i> long is a potential task for the future. A not yet working proposal for implementation is included in cell 11. 
+</p> <i>Report of Limitations:</i> Making sure that the output list is exactly <i>n</i> long is a potential task for the future. A not yet working proposal for implementation is included in cell 11. Since the filtering out didn't work in 100% of all cases, we reviewed the exact amount of filtered out n-grams with the help of cells no. 10, no. 11, and no. 12. View them for more details and the results. 
