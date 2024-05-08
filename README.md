@@ -12,6 +12,6 @@ The functions in the code take a specified "ngram" (bigram, trigram or fourgram)
 and didn't provide any additional helpful information on "feste Wendungen", but rather cluttered the output. 
 The code thus attempts to not include ngrams with 'gibt' or Named person/location Entities in the final output to make it more readable.
 Thus, the final list of top ngrams is often shorter than <i>n</i>.
-The model used for Named Entity Recognition is the spacy </i>model de_core_news_sm</i>. 
+The model used for Named Entity Recognition is the spacy model <i>de_core_news_sm</i>. 
 The identification of named entities and 'gibt' does not work in all cases, but in some. Therefore, it still successfully shortens the output - which was the goal of the filtering process. </p>
 </p> <i>Limitations:</i> Making sure that the output list is exactly <i>n</i> long is a potential task for the future. A not yet working proposal for implementation is included in cell 11. 
