@@ -1,5 +1,5 @@
 </p> The BA folder includes all code used in the process of my Bachelor thesis. 
-The document CollocationsPaket is a Jupyter Notebook in Python. </p> 
+The document CollocationsPaket is a Jupyter Notebook in Python. It was originally applied on texts from a "Deutsch perfekt" Database of a project partner, containing easy German texts labelled as "_Leicht" from 2017 to 2020. </p> 
 <i> To use the project</i>, run the cells in the listed order (cell 5 only during the first time to create a single text file with all relevant texts, 
 cell 4 only if such a text file already exists.) </p>
 </p> <i>Purpose</i>: The ultimate goal was to find "feste Wendungen" - words that co-appear in a certain combination overly often and 
