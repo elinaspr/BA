@@ -1,5 +1,5 @@
 </p> The BA folder includes all code used in the process of my Bachelor thesis. 
-The notebook CollocationsPaket is a Jupyter Notebook in Python used to search for collocations in a text file. It was applied on the text file output-leicht.txt containing merged texts from a "Deutsch perfekt" Database labelled as "_Leicht" and publsihed from 2017 to 2020. The notebook AppliedFunctions contains sueful additional functions when working with CollocationsPaket and analyzing its functioning. </p> 
+The notebook CollocationsPaket is a Jupyter Notebook in Python used to search for collocations in a text file. It was applied on the text file output-leicht.txt containing merged texts from a "Deutsch perfekt" Database labelled as "_Leicht" and publsihed from 2017 to 2020. The notebook AppliedFunctions contains useful additional functions when working with CollocationsPaket and analyzing its functioning. </p> 
 </p> <i>CollocationsPaket</i></p>
 <i> To use CollocationsPaket</i>, run the cells in the listed order 
 </p> <i>Purpose</i>: The ultimate goal was to find "feste Wendungen" - words that co-appear in a certain combination overly often and 
@@ -16,7 +16,7 @@ The model used for Named Entity Recognition is the spacy model <i>de_core_news_s
 </p> <i>AppliedFunctions</i></p>
 <i> To use AppliedFunctions</i>, search for the appropriate cells and run them respectively. 
 </p> <i>Purpose</i>:
-The functions included in this notebook serve the sake of illustration, analyzation and proposals of improval regarding CollocationsPaket. 
+The functions included in this notebook serve the sake of illustration, analysis and improvement proposals regarding CollocationsPaket. 
 </p> <i>Filtering</i>: 
-The notebook contains functions that were used to analyze the the filtering process. Since the filtering out didn't work in 100% of all cases, we reviewed the exact amount of filtered out n-grams. Review them for more details and the exact results. It was found that in total, the code filtered out 67 bigrams, 130 trigrams, and 84 fourgrams. Therefore, it still successfully shortened the output - which was the goal of the filtering process. </p>
+The notebook contains functions that were used to analyze the filtering process. Since the filtering didn't work in 100% of all cases, we reviewed the exact amount of filtered out n-grams. Review AppliedFunctions for more details and the exact results. It was found that in total, the code filtered out 67 bigrams, 130 trigrams, and 84 fourgrams. Therefore, it still successfully shortened the output - which was the goal of the filtering process. </p>
 </p> <i>Report of Limitations:</i> Making sure that the output list is exactly <i>n</i> long is a potential task for the future. A not yet working proposal for implementation is also included in AppliedFunctions. 
