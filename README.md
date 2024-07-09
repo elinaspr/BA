@@ -1,5 +1,5 @@
 </p> This BA branch includes all material used for the collocation search. 
 </p> The process consisted of two subsequent step: first, n-grams were identified computationally from a database with texts based on their frequency and three Associatoin Measures. For details on this process, refer to the sub-branch <i>frequency-based_criterion</i>. 
 </p> Next, the collected lists of n-grams from the first step were reviewed manually. Those n-grams, that were found in easy texts and or consisted of vocabulary assigned to one specific CEFR-level, but made use grammatical structures assigned to higher CEFR-levels, were included in the final list of collocations. For details on this second step, refer to the sub-branch <i>grammar_criterion</i>
-</p> <i>output-leicht</i>: This text file represents the database, on which the collocation search was conducted.</p> 
+</p> <i>output-leicht</i>: This text file represents the database, on which the collocation search was conducted. It consists of texts labelled as easy from the Spotlight corpus. The creation of this file is documented in the sub-branch <i>frequency-based_criterion</i></p> 
 </p> <i>collocations</i>: This text file is a list of all final collocations that were found. It thus represents the result of the collocation search. </p>
