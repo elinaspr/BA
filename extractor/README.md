@@ -1,4 +1,4 @@
-</p> This BA folder includes all material ued for the development of the extractor. 
+</p> This BA folder includes all material used for the development of the extractor. 
 </p> The excel <i>ExtractorValidation</i> includes a list of all implemented constructs and the results of the recall and precision testing.
 </p> The zip <i>Input_Texts.zip</i> contains the texts on which the precision testing was conduced.
 </p> The zip <i>Output_Xmis.zip</i>  contains the output of the precision testing and allows to track all annotations/tags
