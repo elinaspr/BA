@@ -1,0 +1,16 @@
+1) (Potentially Tagger-Error:) Unterscheidung Perfekt und atttributive Adjektive mit ist 
+    a) "das ist nicht erlaubt" wird stattdessen als Perfekt eingestuft 
+    b) "sie sind nicht aufgeschlossen" wird als Perfekt eingestuft
+2) innerhalb eines Teilsatzes zu bleiben nicht möglich 
+    a) "wird, werden wir losfahren" wird als Futur 1 eingestuft
+    c) “Für ein friedliches Miteinander [wird] der kulturelle Austausch seiner Meinung nach immer wichtiger.„Theater und Oper erfüllen eine wichtige Funktion in der Demokratie, indem sie mit Mitteln der Kunst die Widersprüche und Probleme der Gesellschaft reflektieren und zum gegenseitigen Verständnis [beitragen].” wird als Futur 1 eingestuft 
+    c) "hat, wünscht er sich seine vierte Neuinszenierung nicht altmodisch, sondern modern inszeniert." wird als Perfekt eingestuft
+    d) "ist, ist er traurig: Mist ich habe sie verpasst." und "ist er traurig: Mist ich habe sie verpasst" wird als Perfekt eingestuft 
+    
+3) Unterscheidung Passiv Perfekt und Perfekt (z.B. "ich bin von ihm gefragt worden" wird zusätzlich zu Passiv Perfekt als Perfekt eingestuft)
+4) Konkretisierung Dependencies;man kann nicht auf einzelne Komponenten, wie Governor zugreifen, sondern nur alle Dependencies zurückverfolgen. (Z.B. wird dann "Das
+ist dann oft ein langer demokratischer Prozess, bis nach vielen Diskussionen klar
+ist: Dieses Bild kommt mit" dadurch, dass mit Dependent von kommt ist, aber kommt Dependent von ist, falsch Trennverben markiert: 
+    a) "[ist] dann oft ein langer demokratischer Prozess, bis nach vielen Diskussionen klar ist: Dieses Bild kommt [mit]" und 
+    b)"[ist]: Dieses Bild kommt [mit]")
+
