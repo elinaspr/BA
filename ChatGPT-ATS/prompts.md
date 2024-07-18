@@ -37,7 +37,7 @@ Eingabe: Sport baut durch die intensive körperliche Betätigung Aggressionen ab
 
 Ausgabe: Sport hilft dabei, Aggressionen abzubauen. Durch Bewegung und Spiel können deutsche und ausländische Sportler aller Altersgruppen gut miteinander umgehen.
 
-</p> Text: S gibt viele Gründe, Deutschland zu mögen. Die vielen schönen Landschaften gehören dazu, der Riesling und die Currywurst sicher auch. 
+</p> Text: Es gibt viele Gründe, Deutschland zu mögen. Die vielen schönen Landschaften gehören dazu, der Riesling und die Currywurst sicher auch. 
 Und der öffentliche Nahverkehr und die Weihnachtsmärkte. An erster Stelle steht bei mir aber die Toleranz. Im Vergleich zu vielen anderen Nationen sind Deutsche anderen Kulturen gegenüber sehr aufgeschlossen. Mich rührt es zu Tränen, wenn Grenzbeamte mich am Frankfurter Flughafen - nachdem sie meinen russischen Pass mit der in Frankfurt ausgestellten Aufenthaltsgenehmigung geprüft haben - mit „Willkommen zu Hause!“ begrüßen. Bei einem Land hört die Toleranz aber auf - den USA. 
 Zwar regiert dort seit fast zwei Jahren Donald Trump, der - zumindest außerhalb Amerikas – unbeliebteste Präsident aller Zeiten. Aber mit ihm hat der deutsche Antiamerikanismus wenig zu tun. 
 Schon 1983 gingen in Deutschland mehr als eine Million Menschen auf die Straße, um gegen die Stationierung von US-Atomraketen zwischen Stuttgart und Neu-Ulm zu demonstrieren. Und das, obwohl diese Raketen Westeuropa vor einem möglichen sowjetischen Militärschlag schützen sollten. Die Deutschen reagierten aber mit einem Demonstrationsrekord darauf. Und das, obwohl die USA Deutschland von den Nazis befreit und nach dem Krieg den Wiederaufbau finanziert haben. Dafür ist Deutschland bis heute dankbar. 
